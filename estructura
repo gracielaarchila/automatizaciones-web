@@ -1,0 +1,42 @@
+resources/js/
+  Pages/
+    Home.vue
+    Admin/
+      Dashboard.vue
+  Components/
+    landing/
+      HeroSection.vue
+      ServicesSection.vue
+      HowItWorksSection.vue
+      PlansSection.vue
+      TestimonialsSection.vue
+      ContactSection.vue
+
+page_visits        visitas
+contact_requests   solicitudes/contactos
+articles           noticias/aprende
+testimonials       comentarios/clientes
+
+orden de trabajo
+
+Primero haremos:
+
+1. Proyecto Laravel nuevo
+2. Base de datos
+3. Landing Home.vue
+4. Componentes de la landing
+5. Registro de visitas
+6. Panel admin básico
+7. Noticias / artículos
+8. Portafolio / guíaorden de trabajo
+
+Primero haremos:
+
+1. Proyecto Laravel nuevo
+2. Base de datos
+3. Landing Home.vue
+4. Componentes de la landing
+5. Registro de visitas
+6. Panel admin básico
+7. Noticias / artículos
+8. Portafolio / guía
