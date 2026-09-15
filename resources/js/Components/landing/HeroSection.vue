@@ -67,7 +67,7 @@ import LogoMark from '@/Components/landing/LogoMark.vue'
           </a>
 
           <a
-            href="https://wa.me/569XXXXXXXX"
+            href="https://wa.me/56965426590"
             target="_blank"
             class="rounded-2xl border border-white/80 bg-white/80 px-6 py-3 text-center text-sm font-black text-slate-800 shadow-sm backdrop-blur transition hover:-translate-y-1 hover:bg-white"
           >
