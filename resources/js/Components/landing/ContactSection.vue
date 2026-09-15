@@ -47,7 +47,7 @@ import LogoMark from '@/Components/landing/LogoMark.vue'
           </p>
 
           <a
-            href="https://wa.me/569XXXXXXXX"
+            href="https://wa.me/56965426590"
             target="_blank"
             class="mt-6 inline-flex w-full justify-center rounded-2xl bg-white px-6 py-3 text-sm font-black text-fuchsia-700 shadow-lg transition hover:-translate-y-1"
           >
